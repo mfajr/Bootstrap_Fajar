@@ -9,3 +9,11 @@
 .nav-link.active {
     background-color: #0284c7 !important;
 }
+
+.btn-primary {
+    background-color: #0284c7 !important;
+}
+
+.dropdown-item:active {
+    background-color: #0284c7 !important;
+}
